@@ -1,16 +1,28 @@
-## Hi there 👋
+## 👋 Hi, I'm Herman
 
-<!--
-**HermanIS1/HermanIS1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an IT student at the beginning of my journey with programming.
+Right now I'm focused on learning the basics and understanding how things actually work.
 
-Here are some ideas to get you started:
+### 🚀 What I'm doing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Learning programming fundamentals step by step
+* Practicing simple projects
+* Building consistency and problem-solving skills
+
+### 🎯 Goal
+
+Get solid fundamentals and become ready for a junior role in the future.
+
+### 🛠️ Tech I'm learning
+
+* JavaScript (basics)
+* HTML & CSS (basics)
+* C (basics)
+
+### 📫 Contact
+
+Feel free to check my progress here on GitHub
+
+---
+
+Still learning, but getting better with every project.
