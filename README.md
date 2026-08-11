@@ -1,6 +1,6 @@
 # ⛧ Hi, I'm Herman
 
-I'm an Applied Computer Science student focused on secure infrastructure, system administration, and web development. I don't just want to write code; I want to understand how operating systems work under the hood and how to secure them.
+I'm an Applied Computer Science student focused on secure infrastructure, system administration, and web development. I don't just want to write code; I want to understand how operating systems work under the hood, from the bare-metal hardware all the way up to the secure network layer.
 
 **⚙️ What I'm currently working on**
 * Architecting a custom Linux environment based on a Zero Trust model and mesh networking.
@@ -13,6 +13,7 @@ Building a bulletproof foundation in Linux administration and secure networking 
 **🛠️ Tech Stack & Tools**
 * **Core Technologies:** Linux, Bash, Git, JavaScript, Node.js, HTML/CSS
 * **Infrastructure & Security:** SSH, WireGuard/Tailscale, Docker
+* **Hardware & Bare-Metal:** PC Assembly, Diagnostics, Performance Tuning
 * **🚧 Currently Learning:** C, C++, Python, Advanced Systemd, React
 
 **📫 Contact & Links**
