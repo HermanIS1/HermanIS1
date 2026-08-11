@@ -1,28 +1,22 @@
-## 👋 Hi, I'm Herman
+# ⛧ Hi, I'm Herman
 
-I'm an IT student at the beginning of my journey with programming.
-Right now I'm focused on learning the basics and understanding how things actually work.
+I'm an Applied Computer Science student focused on secure infrastructure, system administration, and web development. I don't just want to write code; I want to understand how operating systems work under the hood and how to secure them.
 
-### 🚀 What I'm doing
+**⚙️ What I'm currently working on**
+* Architecting a custom Linux environment based on a Zero Trust model and mesh networking.
+* Automating system deployments and configurations using custom dotfiles and Bash scripting.
+* Deep diving into networking, access management, and incident response.
 
-* Learning programming fundamentals step by step
-* Practicing simple projects
-* Building consistency and problem-solving skills
+**🔒 Goal**
+Building a bulletproof foundation in Linux administration and secure networking to transition into a Cybersecurity / DevSecOps role.
 
-### 🎯 Goal
+**🛠️ Tech Stack & Tools**
+* **Core Technologies:** Linux, Bash, Git, JavaScript, Node.js, HTML/CSS
+* **Infrastructure & Security:** SSH, WireGuard/Tailscale, Docker
+* **🚧 Currently Learning:** C, C++, Python, Advanced Systemd, React
 
-Get solid fundamentals and become ready for a junior role in the future.
-
-### 🛠️ Tech I'm learning
-
-* JavaScript (basics)
-* HTML & CSS (basics)
-* C (basics)
-
-### 📫 Contact
-
-Feel free to check my progress here on GitHub
+**📫 Contact & Links**
+Check out my repositories to see my configuration scripts and current projects, or visit my portfolio at [hermanportfolio.pl](https://hermanportfolio.pl).
 
 ---
-
-Still learning, but getting better with every project.
+*Securing the fundamentals, one project at a time.*
