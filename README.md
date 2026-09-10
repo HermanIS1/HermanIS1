@@ -1,23 +1,40 @@
-# ⛧ Hi, I'm Herman
+# ⛧Hi, I'm Herman
 
-I'm an Applied Computer Science student focused on secure infrastructure, system administration, and web development. I don't just want to write code; I want to understand how operating systems work under the hood, from the bare-metal hardware all the way up to the secure network layer.
+I'm an Applied Computer Science student focused on Network Security, Linux, AppSec and infrastructure.
 
-**⚙️ What I'm currently working on**
-* Architecting a custom Linux environment based on a Zero Trust model and mesh networking.
-* Automating system deployments and configurations using custom dotfiles and Bash scripting.
-* Deep diving into networking, access management, and incident response.
+I like understanding how systems actually work — from Linux and networking to web backends, security hardening and the infrastructure connecting everything together.
 
-**🔒 Goal**
-Building a bulletproof foundation in Linux administration and secure networking to transition into a Cybersecurity / DevSecOps role.
+⚙️ What I'm currently working on
 
-**🛠️ Tech Stack & Tools**
-* **Core Technologies:** Linux, Bash, Git, JavaScript, Node.js, HTML/CSS
-* **Infrastructure & Security:** SSH, WireGuard/Tailscale, Docker
-* **Hardware & Bare-Metal:** PC Assembly, Diagnostics, Performance Tuning
-* **🚧 Currently Learning:** C, C++, Python, Advanced Systemd, React
+• Building and maintaining my Fedora-based Linux environment across multiple machines.
+• Learning networking through TCP/IP, DNS, Wireshark and hands-on experimentation.
+• Hardening web applications and reducing attack surface.
+• Building projects that combine Linux, infrastructure and security.
 
-**📫 Contact & Links**
-Check out my repositories to see my configuration scripts and current projects, or visit my portfolio at [hermanportfolio.pl](https://hermanportfolio.pl).
+🔐 Current Direction
 
----
-*Securing the fundamentals, one project at a time.*
+NETWORK SECURITY
+LINUX
+APPSEC
+INFRASTRUCTURE
+
+🛠 Tech & Tools
+
+• Linux: Fedora, systemd, BTRFS, SSH
+• Networking: TCP/IP, DNS, Wireshark, Tailscale
+• Security: OWASP ZAP, Gitleaks, CSP, Helmet, Rate Limiting
+• Web: JavaScript, Node.js, Express, HTML/CSS
+• Infrastructure: Syncthing, Git, Cloudflare, Render
+
+🧪 Current Projects
+
+• HERMAN Workstation // Linux Infrastructure
+• HERMANOS Portfolio // Security Rebuild
+• Debloated Spotify Client
+
+🎯 Goal
+
+Build a strong foundation in Linux and networking, then keep moving deeper into Network Security.
+
+🌐 hermanportfolio.pl
+🐙 github.com/HermanIS1
