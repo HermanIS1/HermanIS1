@@ -37,4 +37,3 @@ Building a strong foundation in **Linux and networking**, with my main direction
 
 🌐 [PORTFOLIO](https://hermanportfolio.pl)
 
-🐙 [GITHUB](https://github.com/HermanIS1)
